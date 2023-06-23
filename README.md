@@ -21,29 +21,24 @@
 
 <h2 id="about">💬 About</h2>
 
-This is a collection of some sample models for you to use in your projects. Among them are, for example:
-
-* Github templates
-* Github workflows
-  * Application security testing samples
-
-To use the template, check some of the validations to be made in [template-checklist.md](docs/template-checklist.md)
+The purpose is to create a CSV file from the Logs tree of the version of a repository that uses Git.
 
 
 <h2 id="technologies"> 🛠️ Technologies</h2>
 
-* [Markdown](https://www.markdownguide.org/) - used in documentations
-* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG) - used in project banner
-* [XHTML](https://www.w3docs.com/learn-html/xhtml-extensible-hypertext-markup-language.html) - used in project banner to add our style
+* [Go language](#)
+* [Git](#)
+* [CSV](#)
 
 
 <h2 id="getting-started"> 🚶 Getting Started</h2>
 
 * Checkout the [documentation](docs/getting-started.md)
 
+
 <h2>🚀 Deploy</h2>
 
-* Distributed here, in [Github](https://github.com/andersonbosa/dothub)
+* Distributed here, in [Github](https://github.com/andersonbosa/git_audit_go)
 
 
 <h2 id="contribution">🤝 Contribution</h2>
@@ -60,9 +55,12 @@ This project is under the MIT license.
 
 ---
 
-<h4>  
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/dothub?style=social">
-  | Did you like the repository? Give it a star! 😁
+<h4 align="center">  
+  <strong>
+    Did you like the repository? Give it a star! 🤩
+    <br />
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/git_audit_go?style=social">
+  </strong>
 </h4>
 
 
