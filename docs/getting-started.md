@@ -4,7 +4,7 @@
 
 ```bash
 # download the binary
-wget -L https://github.com/andersonbosa/git_audit_go/raw/main/git_audit_go/git_audit_go.bin -o $HOME/.local/bin/git_audit_go
+wget -L https://github.com/andersonbosa/git_audit_go/raw/main/git_audit_go/git_audit_go -o $HOME/.local/bin/git_audit_go
 
 # give execution permission
 chmod +x $HOME/.local/bin/git_audit_go
