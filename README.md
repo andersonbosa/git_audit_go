@@ -21,7 +21,9 @@
 
 <h2 id="about">💬 About</h2>
 
-The purpose is to create a CSV file from the Logs tree of the version of a repository that uses Git.
+This project creates a CSV file from a Git repository's commit log. It extracts commit information within a specified time frame, including commit hash, date and time, author name, and author email.
+
+The resulting CSV file is particularly useful for tracking and analyzing commit activity outside of standard working hours. This can help identify work patterns and improve team efficiency.
 
 
 <h2 id="technologies"> 🛠️ Technologies</h2>
@@ -51,7 +53,7 @@ The purpose is to create a CSV file from the Logs tree of the version of a repos
 
 <h2 id="license"> 📝 License</h2>
 
-This project is under the MIT license.
+This project is under the [public domain](LICENSE.md) license.
 
 ---
 
